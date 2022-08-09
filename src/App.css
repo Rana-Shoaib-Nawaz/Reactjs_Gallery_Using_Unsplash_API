@@ -1,0 +1,8 @@
+.box{
+    font-size: x-large;
+    width: 350px;
+    padding: 5px 20px;
+    outline: none;
+    border: 2px solid brown;
+    border-radius: 45px;
+}
